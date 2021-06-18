@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sinem Morzambak
+### I'm Sinem Morzambak
 #### Computer Engineering and Front-End Development
 
 Self taught Web Programmer, Designer.
