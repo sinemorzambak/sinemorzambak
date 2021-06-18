@@ -20,7 +20,7 @@ Skills: HTML / CSS / JS / PYTHON
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sinemorzambak)  
 
-![Profile views](https://gpvc.arturio.dev/sinemorzambak)  
+
 
 
 
