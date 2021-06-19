@@ -7,7 +7,9 @@ Self taught Web Programmer, Designer.
 Skills: HTML / CSS / JS / PYTHON
 
 - 🔭 I am currently trying to improve myself in the Front-End Web Development.
-- ⚡ Fun fact: I'm a designer, I'm not very good at Photoshop. 
+![Alt Text](https://media.giphy.com/media/7J4P7cUur2DlErijp3/source.gif)
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sinem-morzambak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sinemorzambak.github.io/sinem.github.io) 
@@ -19,7 +21,6 @@ Skills: HTML / CSS / JS / PYTHON
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sinemorzambak)  
 
-![Alt Text](https://media.giphy.com/media/7J4P7cUur2DlErijp3/source.gif)
 
 
 
