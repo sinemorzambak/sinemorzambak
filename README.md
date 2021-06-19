@@ -7,6 +7,10 @@ Self taught Web Programmer, Designer.
 Skills: HTML / CSS / JS / PYTHON
 
 - 🔭 I am currently trying to improve myself in the Front-End Web Development.
+
+
+
+
 ![Alt Text](https://media.giphy.com/media/7J4P7cUur2DlErijp3/source.gif)
 
 
