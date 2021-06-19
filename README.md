@@ -16,7 +16,9 @@ Skills: HTML / CSS / JS / PYTHON
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sinemorzambak)  
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 
 
 
