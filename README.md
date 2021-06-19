@@ -19,7 +19,7 @@ Skills: HTML / CSS / JS / PYTHON
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sinemorzambak)  
 
-![Alt Text](https://i.makeagif.com/media/4-07-2020/H9zmJf.mp4)
+![Alt Text](https://giphy.com/gifs/manny-manny404-mannynotfound-7J4P7cUur2DlErijp3)
 
 
 
