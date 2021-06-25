@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Sinem 👋
 #### Computer Engineering and Front-End Development
 
 Self taught Web Programmer, Designer.
