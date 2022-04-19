@@ -3,7 +3,7 @@
 
 Self taught Web Programmer, Designer.
 
-Skills: HTML / CSS / JS / PYTHON
+Skills: HTML / CSS / JS / REACT/  C# /PYTHON
 
 - 🔭 I am currently trying to improve myself in the Front-End Web Development.
 
